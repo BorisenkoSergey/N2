@@ -13,4 +13,5 @@ int main()
     cin >> m;
     array1[i] = m;
   }
+  int max = 0;
 }
